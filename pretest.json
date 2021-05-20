@@ -1,0 +1,46 @@
+[{
+	"question": "What is SIS? ",
+	"answers": {
+		"a": "Safety informative system",
+		"b": "Stable indicative system",
+		"c": "Stable instrumented system",
+		"d": "Safety instrumented system"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "What are the types of safety aspect in any plant",
+	"answers": {
+		"a": "INterlock",
+		"b": "All of these",
+		"c": "Regulatory control",
+		"d": "Safety instrumented system"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Which component used to select the required parameter level based on the application demand and pass the value to regulatory controller",
+	"answers": {
+		"a": "Limiter",
+		"b": "Accumulator",
+		"c": "Controller",
+		"d": "Selector"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Which component used to select the required parameter level based on the application demand and limit the value to regulatory controller?",
+	"answers": {
+		"a": "Selector",
+		"b": "Limiter",
+		"c": "Accumulator",
+		"d": "controller"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "What is rate limiter",
+	"answers": {
+		"a": "A component which will not allow the process parameter to cross a set limit",
+		"b": "A component which will allow the process parameter to cross a set limit",
+		"c": "None of these",
+		"d": "The rate at which process variable is changing needs to be monitored and controlled"
+	},
+	"correctAnswer": "d"
+}]
