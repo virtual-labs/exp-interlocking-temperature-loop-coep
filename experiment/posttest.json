@@ -1,0 +1,46 @@
+[{
+	"question": "A component which will compare the process parameter based on multiple sensors installed and pass Highest amongst all, to the regulatory device",
+	"answers": {
+		"a": "High Selector",
+		"b": "Low Selector",
+		"c": "Rate Limiter",
+		"d": "None of these"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "A component which will compare the process parameter based on multiple sensors installed and pass Lowest amongst all, to the regulatory device",
+	"answers": {
+		"a": "Low Selector",
+		"b": "High Selector",
+		"c": "Rate Limiter",
+		"d": "None of these"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Number of inputs to high selector are",
+	"answers": {
+		"a": "Two or many",
+		"b": "One",
+		"c": "Either a or b",
+		"d": "Both a and b"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Power supply used is",
+	"answers": {
+		"a": "5 VDC",
+		"b": "10 VDC",
+		"c": "24 VDC",
+		"d": "12 VDC"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Limiter will have the inputs",
+	"answers": {
+		"a": "One",
+		"b": "Two",
+		"c": "Three",
+		"d": "Four"
+	},
+	"correctAnswer": "b"
+}]
